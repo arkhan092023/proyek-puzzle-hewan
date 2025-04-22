@@ -54,5 +54,8 @@ Diskusi Kelompok: Setelah menyelesaikan puzzle, lakukan diskusi kelompok untuk m
 Tantangan Waktu: Tambahkan elemen waktu untuk meningkatkan tantangan dan keterlibatan siswa.​
 repository.uksw.edu
 
-Variasi Gambar: Gunakan berbagai gambar yang relevan dengan materi pelajaran untuk memperkaya pengalaman belajar.
-link puzzle https://puzzel.org/id/jigsaw/play?p=-ONrfg-RSTyMKBOjCecH
+link puzzle
+
+
+
+ https://puzzel.org/id/jigsaw/play?p=-ONrfg-RSTyMKBOjCecH
