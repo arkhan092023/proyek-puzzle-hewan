@@ -1,5 +1,5 @@
 # proyek-puzzle-hewan
-https://puzzel.org/id/jigsaw/play?p=-ONrfg-RSTyMKBOjCecH
+
 Puzzle yang Anda bagikan adalah permainan jigsaw interaktif yang dibuat menggunakan platform Puzzel.org. Permainan ini dirancang untuk meningkatkan keterampilan kognitif, konsentrasi, dan kerjasama antar siswa.​
 ResearchGate 
 +4
@@ -55,3 +55,4 @@ Tantangan Waktu: Tambahkan elemen waktu untuk meningkatkan tantangan dan keterli
 repository.uksw.edu
 
 Variasi Gambar: Gunakan berbagai gambar yang relevan dengan materi pelajaran untuk memperkaya pengalaman belajar.
+link puzzle https://puzzel.org/id/jigsaw/play?p=-ONrfg-RSTyMKBOjCecH
